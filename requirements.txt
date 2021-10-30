@@ -1,0 +1,4 @@
+ansible < 2.10
+molecule[lint]
+molecule-podman
+ansible-lint
